@@ -1,0 +1,15 @@
+C:\Users\dinesh\OneDrive\Documents\GitHub\equaldiffrent\bin\Debug\net8.0\equaldiffrent.exe
+C:\Users\dinesh\OneDrive\Documents\GitHub\equaldiffrent\bin\Debug\net8.0\equaldiffrent.deps.json
+C:\Users\dinesh\OneDrive\Documents\GitHub\equaldiffrent\bin\Debug\net8.0\equaldiffrent.runtimeconfig.json
+C:\Users\dinesh\OneDrive\Documents\GitHub\equaldiffrent\bin\Debug\net8.0\equaldiffrent.dll
+C:\Users\dinesh\OneDrive\Documents\GitHub\equaldiffrent\bin\Debug\net8.0\equaldiffrent.pdb
+C:\Users\dinesh\OneDrive\Documents\GitHub\equaldiffrent\obj\Debug\net8.0\equaldiffrent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinesh\OneDrive\Documents\GitHub\equaldiffrent\obj\Debug\net8.0\equaldiffrent.AssemblyInfoInputs.cache
+C:\Users\dinesh\OneDrive\Documents\GitHub\equaldiffrent\obj\Debug\net8.0\equaldiffrent.AssemblyInfo.cs
+C:\Users\dinesh\OneDrive\Documents\GitHub\equaldiffrent\obj\Debug\net8.0\equaldiffrent.csproj.CoreCompileInputs.cache
+C:\Users\dinesh\OneDrive\Documents\GitHub\equaldiffrent\obj\Debug\net8.0\equaldiffrent.sourcelink.json
+C:\Users\dinesh\OneDrive\Documents\GitHub\equaldiffrent\obj\Debug\net8.0\equaldiffrent.dll
+C:\Users\dinesh\OneDrive\Documents\GitHub\equaldiffrent\obj\Debug\net8.0\refint\equaldiffrent.dll
+C:\Users\dinesh\OneDrive\Documents\GitHub\equaldiffrent\obj\Debug\net8.0\equaldiffrent.pdb
+C:\Users\dinesh\OneDrive\Documents\GitHub\equaldiffrent\obj\Debug\net8.0\equaldiffrent.genruntimeconfig.cache
+C:\Users\dinesh\OneDrive\Documents\GitHub\equaldiffrent\obj\Debug\net8.0\ref\equaldiffrent.dll

@@ -1,0 +1,15 @@
+C:\Users\dinesh\OneDrive\Documents\GitHub\primenumber\obj\Debug\net8.0\primenumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinesh\OneDrive\Documents\GitHub\primenumber\obj\Debug\net8.0\primenumber.AssemblyInfoInputs.cache
+C:\Users\dinesh\OneDrive\Documents\GitHub\primenumber\obj\Debug\net8.0\primenumber.AssemblyInfo.cs
+C:\Users\dinesh\OneDrive\Documents\GitHub\primenumber\obj\Debug\net8.0\primenumber.csproj.CoreCompileInputs.cache
+C:\Users\dinesh\OneDrive\Documents\GitHub\primenumber\obj\Debug\net8.0\primenumber.sourcelink.json
+C:\Users\dinesh\OneDrive\Documents\GitHub\primenumber\bin\Debug\net8.0\primenumber.exe
+C:\Users\dinesh\OneDrive\Documents\GitHub\primenumber\bin\Debug\net8.0\primenumber.deps.json
+C:\Users\dinesh\OneDrive\Documents\GitHub\primenumber\bin\Debug\net8.0\primenumber.runtimeconfig.json
+C:\Users\dinesh\OneDrive\Documents\GitHub\primenumber\bin\Debug\net8.0\primenumber.dll
+C:\Users\dinesh\OneDrive\Documents\GitHub\primenumber\bin\Debug\net8.0\primenumber.pdb
+C:\Users\dinesh\OneDrive\Documents\GitHub\primenumber\obj\Debug\net8.0\primenumber.dll
+C:\Users\dinesh\OneDrive\Documents\GitHub\primenumber\obj\Debug\net8.0\refint\primenumber.dll
+C:\Users\dinesh\OneDrive\Documents\GitHub\primenumber\obj\Debug\net8.0\primenumber.pdb
+C:\Users\dinesh\OneDrive\Documents\GitHub\primenumber\obj\Debug\net8.0\primenumber.genruntimeconfig.cache
+C:\Users\dinesh\OneDrive\Documents\GitHub\primenumber\obj\Debug\net8.0\ref\primenumber.dll

@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dinesh\\OneDrive\\Documents\\GitHub\\equipmentinventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{833B881C-17CB-4D89-BCC1-708643EF2D15}|EquipmentInventory.csproj|c:\\users\\dinesh\\onedrive\\documents\\github\\equipmentinventory\\equipmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833B881C-17CB-4D89-BCC1-708643EF2D15}|EquipmentInventory.csproj|solutionrelative:equipmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833B881C-17CB-4D89-BCC1-708643EF2D15}|EquipmentInventory.csproj|c:\\users\\dinesh\\onedrive\\documents\\github\\equipmentinventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833B881C-17CB-4D89-BCC1-708643EF2D15}|EquipmentInventory.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833B881C-17CB-4D89-BCC1-708643EF2D15}|EquipmentInventory.csproj|c:\\users\\dinesh\\onedrive\\documents\\github\\equipmentinventory\\mobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833B881C-17CB-4D89-BCC1-708643EF2D15}|EquipmentInventory.csproj|solutionrelative:mobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833B881C-17CB-4D89-BCC1-708643EF2D15}|EquipmentInventory.csproj|c:\\users\\dinesh\\onedrive\\documents\\github\\equipmentinventory\\equipmentabs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833B881C-17CB-4D89-BCC1-708643EF2D15}|EquipmentInventory.csproj|solutionrelative:equipmentabs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833B881C-17CB-4D89-BCC1-708643EF2D15}|EquipmentInventory.csproj|c:\\users\\dinesh\\onedrive\\documents\\github\\equipmentinventory\\imobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833B881C-17CB-4D89-BCC1-708643EF2D15}|EquipmentInventory.csproj|solutionrelative:imobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mobile.cs",
+              "DocumentMoniker": "C:\\Users\\dinesh\\OneDrive\\Documents\\GitHub\\equipmentinventory\\Mobile.cs",
+              "RelativeDocumentMoniker": "Mobile.cs",
+              "ToolTip": "C:\\Users\\dinesh\\OneDrive\\Documents\\GitHub\\equipmentinventory\\Mobile.cs",
+              "RelativeToolTip": "Mobile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T07:25:36.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EquipmentManager.cs",
+              "DocumentMoniker": "C:\\Users\\dinesh\\OneDrive\\Documents\\GitHub\\equipmentinventory\\EquipmentManager.cs",
+              "RelativeDocumentMoniker": "EquipmentManager.cs",
+              "ToolTip": "C:\\Users\\dinesh\\OneDrive\\Documents\\GitHub\\equipmentinventory\\EquipmentManager.cs",
+              "RelativeToolTip": "EquipmentManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:08:22.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Imobile.cs",
+              "DocumentMoniker": "C:\\Users\\dinesh\\OneDrive\\Documents\\GitHub\\equipmentinventory\\Imobile.cs",
+              "RelativeDocumentMoniker": "Imobile.cs",
+              "ToolTip": "C:\\Users\\dinesh\\OneDrive\\Documents\\GitHub\\equipmentinventory\\Imobile.cs",
+              "RelativeToolTip": "Imobile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T07:25:38.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Equipmentabs.cs",
+              "DocumentMoniker": "C:\\Users\\dinesh\\OneDrive\\Documents\\GitHub\\equipmentinventory\\Equipmentabs.cs",
+              "RelativeDocumentMoniker": "Equipmentabs.cs",
+              "ToolTip": "C:\\Users\\dinesh\\OneDrive\\Documents\\GitHub\\equipmentinventory\\Equipmentabs.cs",
+              "RelativeToolTip": "Equipmentabs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T01:08:27.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dinesh\\OneDrive\\Documents\\GitHub\\equipmentinventory\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dinesh\\OneDrive\\Documents\\GitHub\\equipmentinventory\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T07:25:40.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

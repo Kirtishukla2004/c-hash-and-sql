@@ -1,0 +1,15 @@
+C:\Users\dinesh\OneDrive\Documents\GitHub\duckgame\obj\Debug\net8.0\duckgame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinesh\OneDrive\Documents\GitHub\duckgame\obj\Debug\net8.0\duckgame.AssemblyInfoInputs.cache
+C:\Users\dinesh\OneDrive\Documents\GitHub\duckgame\obj\Debug\net8.0\duckgame.AssemblyInfo.cs
+C:\Users\dinesh\OneDrive\Documents\GitHub\duckgame\obj\Debug\net8.0\duckgame.csproj.CoreCompileInputs.cache
+C:\Users\dinesh\OneDrive\Documents\GitHub\duckgame\obj\Debug\net8.0\duckgame.sourcelink.json
+C:\Users\dinesh\OneDrive\Documents\GitHub\duckgame\bin\Debug\net8.0\duckgame.exe
+C:\Users\dinesh\OneDrive\Documents\GitHub\duckgame\bin\Debug\net8.0\duckgame.deps.json
+C:\Users\dinesh\OneDrive\Documents\GitHub\duckgame\bin\Debug\net8.0\duckgame.runtimeconfig.json
+C:\Users\dinesh\OneDrive\Documents\GitHub\duckgame\bin\Debug\net8.0\duckgame.dll
+C:\Users\dinesh\OneDrive\Documents\GitHub\duckgame\bin\Debug\net8.0\duckgame.pdb
+C:\Users\dinesh\OneDrive\Documents\GitHub\duckgame\obj\Debug\net8.0\duckgame.dll
+C:\Users\dinesh\OneDrive\Documents\GitHub\duckgame\obj\Debug\net8.0\refint\duckgame.dll
+C:\Users\dinesh\OneDrive\Documents\GitHub\duckgame\obj\Debug\net8.0\duckgame.pdb
+C:\Users\dinesh\OneDrive\Documents\GitHub\duckgame\obj\Debug\net8.0\duckgame.genruntimeconfig.cache
+C:\Users\dinesh\OneDrive\Documents\GitHub\duckgame\obj\Debug\net8.0\ref\duckgame.dll

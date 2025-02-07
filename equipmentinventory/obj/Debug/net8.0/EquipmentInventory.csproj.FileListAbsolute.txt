@@ -1,0 +1,15 @@
+C:\Users\dinesh\OneDrive\Documents\GitHub\equipmentinventory\obj\Debug\net8.0\EquipmentInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinesh\OneDrive\Documents\GitHub\equipmentinventory\obj\Debug\net8.0\EquipmentInventory.AssemblyInfoInputs.cache
+C:\Users\dinesh\OneDrive\Documents\GitHub\equipmentinventory\obj\Debug\net8.0\EquipmentInventory.AssemblyInfo.cs
+C:\Users\dinesh\OneDrive\Documents\GitHub\equipmentinventory\obj\Debug\net8.0\EquipmentInventory.csproj.CoreCompileInputs.cache
+C:\Users\dinesh\OneDrive\Documents\GitHub\equipmentinventory\obj\Debug\net8.0\EquipmentInventory.sourcelink.json
+C:\Users\dinesh\OneDrive\Documents\GitHub\equipmentinventory\bin\Debug\net8.0\EquipmentInventory.exe
+C:\Users\dinesh\OneDrive\Documents\GitHub\equipmentinventory\bin\Debug\net8.0\EquipmentInventory.deps.json
+C:\Users\dinesh\OneDrive\Documents\GitHub\equipmentinventory\bin\Debug\net8.0\EquipmentInventory.runtimeconfig.json
+C:\Users\dinesh\OneDrive\Documents\GitHub\equipmentinventory\bin\Debug\net8.0\EquipmentInventory.dll
+C:\Users\dinesh\OneDrive\Documents\GitHub\equipmentinventory\bin\Debug\net8.0\EquipmentInventory.pdb
+C:\Users\dinesh\OneDrive\Documents\GitHub\equipmentinventory\obj\Debug\net8.0\EquipmentInventory.dll
+C:\Users\dinesh\OneDrive\Documents\GitHub\equipmentinventory\obj\Debug\net8.0\refint\EquipmentInventory.dll
+C:\Users\dinesh\OneDrive\Documents\GitHub\equipmentinventory\obj\Debug\net8.0\EquipmentInventory.pdb
+C:\Users\dinesh\OneDrive\Documents\GitHub\equipmentinventory\obj\Debug\net8.0\EquipmentInventory.genruntimeconfig.cache
+C:\Users\dinesh\OneDrive\Documents\GitHub\equipmentinventory\obj\Debug\net8.0\ref\EquipmentInventory.dll
