@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dinesh\\OneDrive\\Documents\\GitHub\\priorityqueuedemo\\priorityqueuedemo.csproj",
+      "projectUniqueName": "C:\\Users\\dinesh\\OneDrive\\Documents\\GitHub\\c-hash-and-sql\\priorityqueuedemo\\priorityqueuedemo.csproj",
       "projectName": "priorityqueuedemo",
-      "projectPath": "C:\\Users\\dinesh\\OneDrive\\Documents\\GitHub\\priorityqueuedemo\\priorityqueuedemo.csproj",
+      "projectPath": "C:\\Users\\dinesh\\OneDrive\\Documents\\GitHub\\c-hash-and-sql\\priorityqueuedemo\\priorityqueuedemo.csproj",
       "packagesPath": "C:\\Users\\dinesh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dinesh\\OneDrive\\Documents\\GitHub\\priorityqueuedemo\\obj\\",
+      "outputPath": "C:\\Users\\dinesh\\OneDrive\\Documents\\GitHub\\c-hash-and-sql\\priorityqueuedemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

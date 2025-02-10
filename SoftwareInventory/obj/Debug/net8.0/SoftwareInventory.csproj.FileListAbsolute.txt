@@ -1,0 +1,15 @@
+C:\Users\dinesh\OneDrive\Documents\GitHub\SoftwareInventory\bin\Debug\net8.0\SoftwareInventory.exe
+C:\Users\dinesh\OneDrive\Documents\GitHub\SoftwareInventory\bin\Debug\net8.0\SoftwareInventory.deps.json
+C:\Users\dinesh\OneDrive\Documents\GitHub\SoftwareInventory\bin\Debug\net8.0\SoftwareInventory.runtimeconfig.json
+C:\Users\dinesh\OneDrive\Documents\GitHub\SoftwareInventory\bin\Debug\net8.0\SoftwareInventory.dll
+C:\Users\dinesh\OneDrive\Documents\GitHub\SoftwareInventory\bin\Debug\net8.0\SoftwareInventory.pdb
+C:\Users\dinesh\OneDrive\Documents\GitHub\SoftwareInventory\obj\Debug\net8.0\SoftwareInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinesh\OneDrive\Documents\GitHub\SoftwareInventory\obj\Debug\net8.0\SoftwareInventory.AssemblyInfoInputs.cache
+C:\Users\dinesh\OneDrive\Documents\GitHub\SoftwareInventory\obj\Debug\net8.0\SoftwareInventory.AssemblyInfo.cs
+C:\Users\dinesh\OneDrive\Documents\GitHub\SoftwareInventory\obj\Debug\net8.0\SoftwareInventory.csproj.CoreCompileInputs.cache
+C:\Users\dinesh\OneDrive\Documents\GitHub\SoftwareInventory\obj\Debug\net8.0\SoftwareInventory.sourcelink.json
+C:\Users\dinesh\OneDrive\Documents\GitHub\SoftwareInventory\obj\Debug\net8.0\SoftwareInventory.dll
+C:\Users\dinesh\OneDrive\Documents\GitHub\SoftwareInventory\obj\Debug\net8.0\refint\SoftwareInventory.dll
+C:\Users\dinesh\OneDrive\Documents\GitHub\SoftwareInventory\obj\Debug\net8.0\SoftwareInventory.pdb
+C:\Users\dinesh\OneDrive\Documents\GitHub\SoftwareInventory\obj\Debug\net8.0\SoftwareInventory.genruntimeconfig.cache
+C:\Users\dinesh\OneDrive\Documents\GitHub\SoftwareInventory\obj\Debug\net8.0\ref\SoftwareInventory.dll

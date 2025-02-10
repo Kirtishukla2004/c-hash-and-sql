@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("duckgame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11066a216f2bdb133a370346a28de212aa7347ef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f72f7cea28741b5bb3c9cecf8f2150997f7230fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("duckgame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("duckgame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
